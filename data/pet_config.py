@@ -18,3 +18,7 @@ OPACITY = 0.9
 
 # 首页公告：程序启动时显示的公告文字
 ANNOUNCEMENT = "小橘会一直陪伴你，天天开心哦！"
+
+#窗口参数
+WINDOW_WIDTH = 400
+WINDOW_HEIGHT = 300
